@@ -4,11 +4,11 @@
 console.log("Hello, World!");
 
 // Function to add two numbers
-function add(a, b) {
-    return a + b;
+function add(a, b, c) {
+    return a + b + c;
 }
 
 // Using the function
-let result = add(5, 3);
+let result = add(5, 3, 7);
 
 console.log("Sum is:", result);
