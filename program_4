@@ -9,5 +9,5 @@ fetch('https://api.example.com/users')
     console.log('GET response:', data);
   })
   .catch(error => {
-    console.error('Error:', error);
-  });
+    console.error('Error:', error)
+    });
