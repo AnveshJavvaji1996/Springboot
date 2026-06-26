@@ -12,4 +12,3 @@ while True:
     print(f"[{timestamp}] CPU Usage: {cpu_usage}%")
 
     time.sleep(INTERVAL)
-    time.sleep(INTERVAL)
