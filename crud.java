@@ -9,8 +9,8 @@ public class Employee {
         this.salary = salary;
     }
 
-    public int getId() {
-        return id;
+    public int getIds() {
+        return ids;
     }
 
     public String getName() {
