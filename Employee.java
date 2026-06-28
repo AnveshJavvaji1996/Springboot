@@ -1,5 +1,6 @@
 public class Employee {
     public static void main(String[] args) {
-        System.out.println("Employee");
+	    Employee employee = new Employee();
+        System.out.println("employee");
     }
 }
